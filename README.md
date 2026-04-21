@@ -1,17 +1,22 @@
-Hello, World! 👋
+## Hello, World! 👋
 
-I’m **Esther**, a software developer with a unique twist. 
-My passion for computer science didn’t originate from a traditional path. 
-Instead, my roots are in biomedical engineering, a field where I was introduced to programming and subsequently developed a deep affection for it.
+I’m **Esther**, a software developer with a non-traditional path into tech.
 
-Through intensive training and dedicated self-learning, I’ve cultivated a comprehensive skill set that empowers me to address intricate problems with creative solutions. 
-My varied background offers a novel viewpoint, and I relish the challenges associated with mastering new technologies.
+My journey began in **biomedical engineering**, where I was first introduced to programming—and quickly developed a deep interest in building things through code. Since then, through focused training and self-driven learning, I’ve developed a strong foundation in software development and problem-solving.
 
-Here’s a snapshot of what I offer in the realm of technology:
-- Expertise in programming languages, including Python and C++.
-- A team-oriented mindset that values effective communication as much as technical prowess.
+I enjoy working on complex challenges and approaching them with a balance of analytical thinking and creativity. My multidisciplinary background gives me a different perspective, and I’m always eager to explore new technologies and push my boundaries.
 
-I firmly believe that success in software development hinges on a solid work ethic and an unending quest for knowledge, rather than just formal education.
-I’m constantly on the lookout for fresh opportunities to expand my horizons and make a meaningful impact. 
+### 💡 What I bring
+- Strong foundation in **Python** and **C++**
+- Problem-solving mindset rooted in engineering principles  
+- Collaborative and communication-focused approach  
 
-Let’s get in touch! [https://www.linkedin.com/in/esthernys/]
+I believe great developers are defined by **curiosity, consistency, and continuous learning**—not just formal education.
+
+### 🌐 Find me online
+- Portfolio: https://www.estherng.work/
+- LinkedIn: https://www.linkedin.com/in/esthernys/
+
+---
+
+_Always building. Always learning._
